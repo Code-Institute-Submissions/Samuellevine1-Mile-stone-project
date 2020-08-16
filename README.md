@@ -1,10 +1,10 @@
 <h1 align="center">The Action Orriented Life  Website</h1>
 
-[View the live project here.](https://codeinstitute.net)
+[View the live project here.](https://f605b289-8d70-4458-a328-67561a4d7ca0.ws-us02.gitpod.io/mini-browser/workspace/Mile-stone-project/index/index.html#media)
 
 This is "The Action Orriented Life" book website for my milestone project. The goal is to show case its responsiveness and clarity for customer usage. To be beautiful and attrative to look at.
 
-<h2 align="center"><img src="https://i.ibb.co/TYvTXz1/Example-CI.png"></h2>
+<h2 align="center"><img src="https://static.wixstatic.com/media/bc5d55_2b27ae11a4e7401a91337c8240301f8a~mv2.png"></h2>
 
 ## User Experience (UX)
 
@@ -12,26 +12,26 @@ This is "The Action Orriented Life" book website for my milestone project. The g
 
     -   #### First Time Visitor Goals
 
-        1. As a First Time Visitor, I want everyone to enjoy and be attracted to the overal sceme and accessibility.
-        2. As a First Time Visitor, I want the visitor to feel welcomed and engaged to the overall narrative of the book. 
-        3. As a First Time Visitor, I want the viewer to feel safe and capable to navigate and use the site to the fullest capacity. Feeling compelled and motivated to participate and buy the initial product(The Book). I want them to have answers for there pressing questions and feel confident with there purchase. Feeling attached to the brand and identity of Samuel.
+        1. As a First Time Visitor, I want everyone to enjoy and be attracted to the overal scheme and accessibility.
+        2. As a First Time Visitor, I want the visitor to feel welcomed and engaged with the overall narrative of the book. 
+        3. As a First Time Visitor, I want the viewer to feel safe and capable to navigate and use the site to the fullest capacity. I want them to feel compelled and motivated to participate and buy the initial product(The Book). I want them to have answers for their pressing questions and feel confident with their purchase,feeling attached to the brand and identity of Samuel.
     -   #### Returning Visitor Goals
 
         1. As a Returning Visitor, I want them to feel a sense of security and safety as they returrn.
         2. As a Returning Visitor, I want the customers to feel a sense of engagement and a hardy welcome back home. 
-        3. As a Returning Visitor, I want them to feel valued and understood about there past and present feelings. 
+        3. As a Returning Visitor, I want them to feel valued and understood about their past and present feelings. 
 
     -   #### Frequent User Goals
         1. As a Frequent User, I want them to be fully engaged and up to date with our new products and promotions though our e-commerce connections.
         2. As a Frequent User, I them to see that we are trusted and used daily by the biggest brands and influences around the world
         3. As a Frequent User, I want them to love the design and enjoy there experience each and every time.
 -   ### Design
-    -   #### Colour Scheme
+    -   #### Color Scheme
         -   The main colors used are white(elegance), grey (deep and trusted), blue(safety and enjoyable,) and red (urgency and importance).
     -   #### Typography
-        -   The azo sans was found on Adobe and was one of the main fonts throughout the website and  Sans Serif was the fallback font in case for any other reason the font wasn't being displayed. Azo sans is a clean and modern look for the site and gives it a fun but elegant vibe.
+        -   The Azo Sans was found on Adobe and was one of the main fonts throughout the website. Sans Serif was the fallback font in case for any other reason the font wasn't being displayed. Azo Sans is a clean and modern look for the site and gives it a fun but elegant vibe.
     -   #### Imagery
-        -   Imagery is one of my favorite parts. The first main image give a mountain top experiance. Showing how the viewer should feel after reading the book. I wanted to position the customer as the hero and show there victory first and formost.
+        -   Imagery is one of my favorite parts. The first main image gives a mountain top experiance, showing how the viewer should feel after reading the book. I wanted to position the customer as the hero and show their victory first and formost.
 
 *   ### Wireframes
 
@@ -49,7 +49,7 @@ This is "The Action Orriented Life" book website for my milestone project. The g
 
 ## Technologies Used
 - Junstinmind (wireframes)
-- Visual Studio (Git Pod has been glitching and deleting previous work. So, I coded in VS and then copied and pasted in git hub. So, this is why my commit history is different and this is what my mentor suggested me to share.)
+- Visual Studio (Git Pod has been glitching and deleting previous work. So, I coded in VS and then copied and pasted in git hub. This is why my commit history is different and this is what my mentor suggested me to share.)
 - Git Pod 
 - Git Hub 
 - Different template examples and pluggins.
@@ -91,7 +91,7 @@ This is "The Action Orriented Life" book website for my milestone project. The g
 ### Further Testing
 
 -   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
--   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone6, iPhone 7 and 8 & iPhoneX.
+-   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone6, iPhone 7 and 8 & iPhone X.
 -   A large amount of testing was done to ensure that all pages were linking correctly.
 -   Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
@@ -99,12 +99,12 @@ This is "The Action Orriented Life" book website for my milestone project. The g
 
 -   On some devices the FAQs section looks overly crowded.
     -   A white gap can be seen to the right of the footer and navigation bar as a result.
--   On some mobile devices the navigate bar dosent appear. 
+-   On some mobile devices the navigate bar dosen't appear. 
 
 
 ### GitHub Pages
 
-The project was deployed to GitHub Pages using the following steps...
+The project was deployed to GitHub Pages using the following steps:
 
 1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
 2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
@@ -116,7 +116,7 @@ The project was deployed to GitHub Pages using the following steps...
 
 ### Forking the GitHub Repository
 
-By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
+By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps:
 
 1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
 2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
@@ -147,6 +147,8 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 ```
 
 Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
+
+
 
 
 ### Code
