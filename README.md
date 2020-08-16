@@ -164,9 +164,9 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Content and credits 
 
--   Content was written by the developer Samuel Levine with use of templates and samples from other sources. Template pieces used from Thomas McGee and examples used from rightly design
+-   Content was written by the developer Samuel Levine with use of templates and samples from other sources. Template pieces used from Thomas McGee.
 
-- Normalizing styles have used from Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
+- Normalizing styles have used from Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/ and template css and design ideas used from free to focus book website.
 
 - Visual studio was used instead of Git Pod because of issues that it was having. This is why the code was commited in a different timeline. My mentor said I needed to make you aware that I was not aware of how to use VS and Git pod connectivity for commit history.
 
