@@ -1,39 +1,182 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+<h1 align="center">The Action Orriented Life  Website</h1>
 
-Welcome Samuellevine1,
+[View the live project here.](https://codeinstitute.net)
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+This is "The Action Orriented Life" book website for my milestone project. The goal is to show case its responsiveness and clarity for customer usage. To be beautiful and attrative to look at.
 
-## Gitpod Reminders
+<h2 align="center"><img src="https://i.ibb.co/TYvTXz1/Example-CI.png"></h2>
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+## User Experience (UX)
 
-`python3 -m http.server`
+-   ### User goals of use 
 
-A blue button should appear to click: *Make Public*,
+    -   #### First Time Visitor Goals
 
-Another blue button should appear to click: *Open Browser*.
+        1. As a First Time Visitor, I want everyone to enjoy and be attracted to the overal sceme and accessibility.
+        2. As a First Time Visitor, I want the visitor to feel welcomed and engaged to the overall narrative of the book. 
+        3. As a First Time Visitor, I want the viewer to feel safe and capable to navigate and use the site to the fullest capacity. Feeling compelled and motivated to participate and buy the initial product(The Book). I want them to have answers for there pressing questions and feel confident with there purchase. Feeling attached to the brand and identity of Samuel.
+    -   #### Returning Visitor Goals
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+        1. As a Returning Visitor, I want them to feel a sense of security and safety as they returrn.
+        2. As a Returning Visitor, I want the customers to feel a sense of engagement and a hardy welcome back home. 
+        3. As a Returning Visitor, I want them to feel valued and understood about there past and present feelings. 
 
-A blue button should appear to click: *Make Public*,
+    -   #### Frequent User Goals
+        1. As a Frequent User, I want them to be fully engaged and up to date with our new products and promotions though our e-commerce connections.
+        2. As a Frequent User, I them to see that we are trusted and used daily by the biggest brands and influences around the world
+        3. As a Frequent User, I want them to love the design and enjoy there experience each and every time.
+-   ### Design
+    -   #### Colour Scheme
+        -   The main colors used are white(elegance), grey (deep and trusted), blue(safety and enjoyable,) and red (urgency and importance).
+    -   #### Typography
+        -   The azo sans was found on Adobe and was one of the main fonts throughout the website and  Sans Serif was the fallback font in case for any other reason the font wasn't being displayed. Azo sans is a clean and modern look for the site and gives it a fun but elegant vibe.
+    -   #### Imagery
+        -   Imagery is one of my favorite parts. The first main image give a mountain top experiance. Showing how the viewer should feel after reading the book. I wanted to position the customer as the hero and show there victory first and formost.
 
-Another blue button should appear to click: *Open Browser*.
+*   ### Wireframes
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
+    -   Desktop Wireframe - [View](https://github.com/Samuellevine1/Mile-stone-project/blob/master/wireframes/Desktop.png)
 
-## Updates Since The Instructional Video
+    -   Mobile Wireframe - [View](https://github.com/Samuellevine1/Mile-stone-project/blob/master/wireframes/Mobile%20extra.png)
 
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
+    -   Tablet Wireframe - [View](https://github.com/Samuellevine1/Mile-stone-project/blob/master/wireframes/Ipad%20extra.png)
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+## Features
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+-   Responsive on all device sizes
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+-   Fun engaging elements and buttons
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+## Technologies Used
+- Junstinmind (wireframes)
+- Visual Studio (Git Pod has been glitching and deleting previous work. So, I coded in VS and then copied and pasted in git hub. So, this is why my commit history is different and this is what my mentor suggested me to share.)
+- Git Pod 
+- Git Hub 
+- Different template examples and pluggins.
+- Wix Image hosting 
+- Unsplash for images
 
---------
 
-Happy coding!
+### Languages Used
+
+-   [HTML5](https://en.wikipedia.org/wiki/HTML5)
+-   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+
+### Frameworks, Libraries & Programs Used
+
+1. [Bootstrap 4.4.1:](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+    - Bootstrap was used to assist with the responsiveness and styling of the website.
+1. [Hover.css:](https://ianlunn.github.io/Hover/)
+    - Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
+1. [Google Fonts:](https://fonts.google.com/)
+    - For font inspirations 
+1. [Font Awesome:](https://fontawesome.com/)
+    - Font Awesome was used throughout the website to add icons for aesthetic and UX purposes.
+1. [jQuery:](https://jquery.com/)
+    - jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
+1. [Git](https://git-scm.com/)
+    - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub. 
+1. [GitHub:](https://github.com/)
+    - GitHub is used to store the projects code after being pushed from Git.
+1. [Fonts:](https://fonts.adobe.com/fonts/azo-sans)
+    - Adobe Fonts for the main font Azo Sans 
+1. [Justinmind](https://www.justinmind.com/free-wireframing-tool)
+    - Justinmind was used to create the [wireframes]for designs.
+
+## Testing
+
+- I used snipits of code from my cited source for a better mobile experiance and design on tablet and phone.
+
+
+### Further Testing
+
+-   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
+-   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone6, iPhone 7 and 8 & iPhoneX.
+-   A large amount of testing was done to ensure that all pages were linking correctly.
+-   Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
+
+### Known Bugs
+
+-   On some devices the FAQs section looks overly crowded.
+    -   A white gap can be seen to the right of the footer and navigation bar as a result.
+-   On some mobile devices the navigate bar dosent appear. 
+
+
+### GitHub Pages
+
+The project was deployed to GitHub Pages using the following steps...
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+    - Alternatively Click [Here](https://raw.githubusercontent.com/) for a GIF demonstrating the process starting from Step 2.
+3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
+4. Under "Source", click the dropdown called "None" and select "Master Branch".
+5. The page will automatically refresh.
+6. Scroll back down through the page to locate the now published site [link](https://github.com) in the "GitHub Pages" section.
+
+### Forking the GitHub Repository
+
+By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
+3. You should now have a copy of the original repository in your GitHub account.
+
+### Making a Local Clone
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+2. Under the repository name, click "Clone or download".
+3. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
+4. Open Git Bash
+5. Change the current working directory to the location where you want the cloned directory to be made.
+6. Type `git clone`, and then paste the URL you copied in Step 3.
+
+```
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+```
+
+7. Press Enter. Your local clone will be created.
+
+```
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+> Cloning into `CI-Clone`...
+> remote: Counting objects: 10, done.
+> remote: Compressing objects: 100% (8/8), done.
+> remove: Total 10 (delta 1), reused 10 (delta 1)
+> Unpacking objects: 100% (10/10), done.
+```
+
+Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
+
+
+### Code
+
+-   The full-screen hero image code came from this [Unsplash](https://unsplash.com/). All images came from either my computer library or Unsplash.
+
+-   [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
+
+-   [MDN Web Docs](https://developer.mozilla.org/) : For ideas and template pieces.
+
+- [W3 Schools](https://www.w3schools.com/w3css/w3css_templates.asp) : For ideas and template pieces.
+
+- [Front end templates](https://freefrontend.com/css-code-examples/) : For ideas and template pieces.
+
+
+### Content and credits 
+
+-   Content was written by the developer Samuel Levine with use of templates and samples from other sources. Template pieces used from Thomas McGee and examples used from rightly design
+
+- Normalizing styles have used from Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
+
+- Visual studio was used instead of Git Pod because of issues that it was having. This is why the code was commited in a different timeline. My mentor said I needed to make you aware that I was not aware of how to use VS and Git pod connectivity for commit history.
+
+
+
+### Media
+
+-   All Images were found by the developer.
+
+### Acknowledgements
+
+-   My Mentor for continuous helpful feedback.
+
