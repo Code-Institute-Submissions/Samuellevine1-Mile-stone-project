@@ -1,6 +1,6 @@
 <h1 align="center">The Action Orriented Life  Website</h1>
 
-[View the live project here.](index.html)
+[View the live project here.](https://samuellevine1.github.io/Mile-stone-project/)
 
 This is "The Action Orriented Life" book website for my milestone project. The goal is to show case its responsiveness and clarity for customer usage. To be beautiful and attrative to look at.
 
