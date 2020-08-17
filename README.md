@@ -1,6 +1,6 @@
 <h1 align="center">The Action Orriented Life  Website</h1>
 
-[View the live project here.](https://f605b289-8d70-4458-a328-67561a4d7ca0.ws-us02.gitpod.io/mini-browser/workspace/Mile-stone-project/index/index.html#media)
+[View the live project here.](index.html)
 
 This is "The Action Orriented Life" book website for my milestone project. The goal is to show case its responsiveness and clarity for customer usage. To be beautiful and attrative to look at.
 
